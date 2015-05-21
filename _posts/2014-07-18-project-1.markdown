@@ -1,5 +1,5 @@
 ---
-title: Dreams
+title: 考试咨询
 subtitle: Website Design
 layout: default
 modal-id: 1
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 专业的老师为考生及家长介绍详细的考试流程，帮助考生及家长进行综合分析，根据学生自身条件、专业水平、文化课成绩、生源所在地、意向报考院校等因素进行量身设计，选择适合学生的学校及专业方向。为考生考试提供便捷。
 
 ---

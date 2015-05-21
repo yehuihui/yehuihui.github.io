@@ -1,5 +1,5 @@
 ---
-title: Golden
+title: 教授引荐
 subtitle: Website Design
 layout: default
 modal-id: 3
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 根据学生所学专业及报考学校，推荐合适的专业教授一对一指导。由专业课教授对每个学生做到全方位评估、检测，保证学生所学专业知识的系统化和整体性；通过基础训练、模拟考试、个别辅导等方式使考生在较短时间内掌握专业考试的技巧和方法，可以在短时间大幅提高学生的应试能力、提高专业课考试通过率。
 
 ---

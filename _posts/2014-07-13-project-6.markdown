@@ -1,5 +1,5 @@
 ---
-title: Round Icons
+title: 专业课程
 subtitle: Graphic Design
 layout: default
 modal-id: 6
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description:实行全日制教学，小班授课，大量真题、模拟考场实训，让学员在真正的考场从容不迫、如鱼得水。除专业课外，班主任全天、全过程辅导，及时解决遗留问题。因材施教和机动教学，极大的提高了艺术高考的通过率。同时还开设整个高三阶段的文化课课程，专业课和文化课相结合，不会顾此失彼。
 
 ---

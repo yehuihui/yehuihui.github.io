@@ -1,5 +1,5 @@
 ---
-title: Escape
+title: 全程陪考
 subtitle: Website Design
 layout: default
 modal-id: 2
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 解决广大音乐考生的后顾之忧。根据每年高等艺术院校专业考试科目、命题及考试时间、考试地点的变化，制定详细的考试计划，在规定的考试时间，组织学生集体备考，防止个别考生盲目应考，以至于漏考，错考。
 
 ---

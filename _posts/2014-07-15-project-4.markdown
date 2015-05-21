@@ -1,5 +1,5 @@
 ---
-title: Treehouse
+title: 研究生一对一陪练
 subtitle: Website Design
 layout: default
 modal-id: 4
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 组织武汉音乐学院研究生对学生进行一对一的陪练，帮助学生在日常专业课练习中及时找到不足并加以改正，在等时间内得到更大的提高。
 
 ---
