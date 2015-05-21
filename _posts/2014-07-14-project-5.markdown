@@ -1,15 +1,15 @@
 ---
-title: dddd
+title: 考官面对面
 subtitle: Website Design
 layout: default
-modal-id: 5
-date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+modal-id: 4
+date: 2014-07-15
+img: treehouse.png
+thumbnail: treehouse-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description:老师均来自武汉各大名校，学习期间，学校开展名校考官咨询见面会，便于了解历年考试情况及艺术类高考考学动态。
+description: 老师均来自武汉各大名校，学习期间，学校开展名校考官咨询见面会，便于了解历年考试情况及艺术类高考考学动态。
 
 ---
