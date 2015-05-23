@@ -14,9 +14,9 @@ color:
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: 容媛老师
   pic: 1
-  position: Lead Designer
+  position: 声乐老师
   social:
     - title: twitter
       url: #
@@ -25,9 +25,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: 韩心怡老师
   pic: 2
-  position: Lead Marketer
+  position: 理论老师
   social:
     - title: twitter
       url: #
@@ -36,9 +36,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: 霍诗莹老师
   pic: 3
-  position: Lead Developer
+  position: 声乐老师
   social:
     - title: twitter
       url: #
