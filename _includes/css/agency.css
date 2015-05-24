@@ -863,7 +863,3 @@ body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
 }
 
-section { padding-top: 85px; margin-top: -85px; }
-section .outer_container { margin-bottom: 50px; background-color: #eeeeee;  }
-section .row { margin-left: 0; margin-right: 0; overflow: hidden; }
-section h1 { text-transform: uppercase;  margin-top: 0px; margin-bottom: 0px; line-height: 280px; text-align: center; }
