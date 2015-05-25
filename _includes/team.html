@@ -15,7 +15,7 @@
                         <h4>{{ member.name }}</h4>
                         <p class="text-muted">{{ member.position }}</p>
                         <ul class="list-inline social-buttons">
-                            <p class="text-muted">{{ member.resume }}</p>
+                           <!-- <p class="text-muted">{{ member.resume }}</p>-->
                             {% for network in member.social %}
                               <li><a href="{{ network.url }}"><i class="fa fa-{{ network.title }}"></i></a>
                             {% endfor %}
